@@ -22,4 +22,4 @@ override_git_prompt_colors() {
 
 }
 
-reload_git_prompt_colors "Single_line_Ubuntu"
+reload_git_prompt_colors "Single_line_Ubuntu_dark"
